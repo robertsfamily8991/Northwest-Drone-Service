@@ -5,6 +5,15 @@ body {
   text-align: center;
 }
 
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.75rem;
+  text-transform: uppercase;
+}
+
 a:hover {
   text-decoration: overline underline #171713;
 }
@@ -44,6 +53,11 @@ a:hover {
 
 .video-heading {
   font-size: 15px;
+}
+
+.services {
+  padding: 5rem 5rem;
+  text-align: left;
 }
 
 .footer {
