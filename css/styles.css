@@ -47,6 +47,16 @@ a:hover {
   width: 100%;
 }
 
+.large_video {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.small_video {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 .video-section {
   padding-top: 50px;
 }
