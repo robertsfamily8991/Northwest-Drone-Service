@@ -1,5 +1,5 @@
 body {
-  background-color: #eceddf;
+  background-color: #ddcab2;
   color: #171713;
   font-family: 'Archivo Black', sans-serif;
   text-align: center;
@@ -34,7 +34,7 @@ a:hover {
 
 .small-heading {
   background-color: #171713;
-  color: #eceddf;
+  color: #ddcab2;
   font-size: 15px;
   padding: 10px;
 }
@@ -72,14 +72,14 @@ a:hover {
 
 .footer {
   background-color: #171713;
-  color: #eceddf;
+  color: #ddcab2;
   font-size: 12px;
   padding: 5px;
   margin-top: 50px;
 }
 
 .footer a {
-  color: #eceddf;
+  color: #ddcab2;
 }
 
 .icon-footer {
@@ -88,5 +88,5 @@ a:hover {
 }
 
 .icon-footer:hover {
-  color: #eceddf;
+  color: #ddcab2;
 }
