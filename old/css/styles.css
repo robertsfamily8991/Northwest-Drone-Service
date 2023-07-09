@@ -1,0 +1,92 @@
+body {
+  background-color: #ddcab2;
+  color: #171713;
+  font-family: 'Archivo Black', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.75rem;
+  text-transform: uppercase;
+}
+
+a:hover {
+  text-decoration: overline underline #171713;
+}
+
+.logo {
+  padding: 30px 0 30px;
+  position: relative;
+  width: 350px;
+}
+
+.big-heading {
+  color: #171713;
+  font-size: 15px;
+  font-weight: 700;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.small-heading {
+  background-color: #171713;
+  color: #ddcab2;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+
+.large_video {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.small_video {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.video-section {
+  padding-top: 50px;
+}
+
+.video-heading {
+  font-size: 15px;
+}
+
+.services {
+  padding: 5rem 5rem;
+  text-align: left;
+}
+
+.footer {
+  background-color: #171713;
+  color: #ddcab2;
+  font-size: 12px;
+  padding: 5px;
+  margin-top: 50px;
+}
+
+.footer a {
+  color: #ddcab2;
+}
+
+.icon-footer {
+  margin-bottom: 1rem;
+  padding: 20px 10px;
+}
+
+.icon-footer:hover {
+  color: #ddcab2;
+}
