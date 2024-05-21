@@ -474,6 +474,7 @@ output {
 
 iframe {
   border: 0;
+  margin-bottom: -7px;
 }
 
 summary {
