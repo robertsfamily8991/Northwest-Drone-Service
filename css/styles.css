@@ -11412,3 +11412,33 @@ footer p {
   font-size: 0.9rem;
 }
 
+
+
+/* REAL ESTATE PACKAGES */
+
+.package-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: white;
+}
+.price-range {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #007bff;
+}
+.package-title {
+  font-size: 1.25rem;
+  margin-bottom: 15px;
+}
+.btn-package {
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+.btn-package:hover {
+  background-color: #0056b3;
+}
